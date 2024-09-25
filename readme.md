@@ -33,11 +33,7 @@ Modify the necessary environment variables, especially database credentials to m
 
 ```bash
 DB_CONNECTION=pgsql
-DB_HOST=postgres
-DB_PORT=5432
-DB_DATABASE=gestion_apprenant
-DB_USERNAME=gestion_apprenant_owner
-DB_PASSWORD=qkyWs80NnUKf
+DATABASE_URL=your_url_Neon
 ```
 
 ### 3. Build and Run Docker Containers
