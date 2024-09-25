@@ -1,4 +1,9 @@
-Here's a structured `README.md` for your GitHub repository that demonstrates the installation and configuration of Docker with Laravel:
+<p align="center">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="200"/>
+</p>
+
+
+that demonstrates the installation and configuration of `Docker` with `Laravel`:
 
 ---
 
